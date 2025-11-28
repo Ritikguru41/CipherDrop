@@ -291,6 +291,7 @@ Credits
 Built with React, Node.js, Socket.IO, WebRTC, and Web Crypto API.
 
 Inspired by modern P2P file sharing tools.
-.
-
+Ritik Vishwakarma
+Harsh Vaidya
+Yuvraj Yadav
 
